@@ -1,6 +1,6 @@
 # Stellar Object Classification
 
-A machine learning project for classifying celestial objects using astronomical observation data. This project demonstrates the complete machine learning workflow, including data preprocessing, exploratory data analysis (EDA), model training, evaluation, and prediction.
+A machine learning project for classifying celestial objects using astronomical observation data. This project demonstrates the complete machine learning workflow, including data preprocessing, exploratory data analysis (EDA), model training, evaluation, and prediction. As this project improves, it can be used to classify stellar objects as new discoveries are made.
 
 ---
 
