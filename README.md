@@ -4,6 +4,11 @@ A machine learning project for classifying celestial objects using astronomical 
 
 ---
 
+## Video 
+
+https://drive.google.com/file/d/1TdiO-XVum4zg5MfrmI-lGT7lUfSqmV5i/view?usp=drive_link
+This video demonstrates the model on an image of a star and an image of a galaxy.
+
 ## Project Overview
 
 The goal of this project is to accurately classify astronomical objects based on observational features collected from sky surveys. The classification model is trained using supervised machine learning techniques to distinguish between different types of stellar objects.
