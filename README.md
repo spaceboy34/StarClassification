@@ -1,10 +1,10 @@
-# ⭐ Star Classification
+# Stellar Object Classification
 
 A machine learning project for classifying celestial objects using astronomical observation data. This project demonstrates the complete machine learning workflow, including data preprocessing, exploratory data analysis (EDA), model training, evaluation, and prediction.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The goal of this project is to accurately classify astronomical objects based on observational features collected from sky surveys. The classification model is trained using supervised machine learning techniques to distinguish between different types of stellar objects.
 
@@ -12,7 +12,7 @@ This repository was created as part of a data science and machine learning portf
 
 ---
 
-## 🚀 Features
+## Features
 
 * Data preprocessing and cleaning
 * Exploratory Data Analysis (EDA)
@@ -24,7 +24,7 @@ This repository was created as part of a data science and machine learning portf
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 StarClassification/
@@ -41,7 +41,7 @@ StarClassification/
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * Python 3
 * Pandas
@@ -53,7 +53,7 @@ StarClassification/
 
 ---
 
-## 📊 Machine Learning Workflow
+## Machine Learning Workflow
 
 1. Load dataset
 2. Clean and preprocess data
@@ -66,7 +66,7 @@ StarClassification/
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 Model performance is evaluated using:
 
@@ -79,7 +79,7 @@ Model performance is evaluated using:
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository:
 
@@ -96,7 +96,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the training script:
 
@@ -112,9 +112,9 @@ jupyter notebook
 
 ---
 
-## 📷 Example Results
+## Example Results
 
-The trained model successfully classifies stellar objects using astronomical features extracted from the dataset.
+The trained model classifies stellar objects (including galaxies, nebulas and stars) using astronomical features extracted from the dataset.
 
 Example outputs include:
 
@@ -125,7 +125,7 @@ Example outputs include:
 
 ---
 
-## 🎯 Future Improvements
+## Future Improvements
 
 * Hyperparameter optimization
 * Deep learning models
@@ -133,10 +133,16 @@ Example outputs include:
 * Model deployment with Flask or FastAPI
 * Interactive web dashboard
 * Automated data pipeline
+* Improve star and nebula accuracy
+* Add more classes
+* Retrain model with more data
+
+## Notable Problems
+* The model occasionally misidentifies stellar objects most likely due to the fact that not enough images were collected
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome.
 
@@ -147,13 +153,13 @@ Contributions are welcome.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👤 Author
+## Author
 
 **Ethan**
 
@@ -161,6 +167,6 @@ GitHub: https://github.com/spaceboy34
 
 ---
 
-## ⭐ Support
+## Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
