@@ -24,22 +24,6 @@ This repository was created as part of a data science and machine learning portf
 
 ---
 
-## Project Structure
-
-```text
-StarClassification/
-│
-├── data/                 # Dataset files
-├── notebooks/            # Jupyter notebooks
-├── models/               # Saved trained models
-├── src/                  # Source code
-├── images/               # Figures and visualizations
-├── requirements.txt      # Python dependencies
-├── README.md             # Project documentation
-└── main.py               # Main training/inference script
-```
-
----
 
 ## Technologies Used
 
