@@ -43,13 +43,12 @@ StarClassification/
 
 ## Technologies Used
 
-* Python 3
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
+Python
+PyTorch
+NVIDIA Jetson Inference
+TorchVision
+ResNet-18
+ONNX
 
 ---
 
@@ -88,29 +87,26 @@ git clone https://github.com/spaceboy34/StarClassification.git
 cd StarClassification
 ```
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## Usage
+
+Enter the correct folder:
+'''bash
+cd jetson-inference
+'''
+
+'''bash
+./docker/run.sh
+'''
+
+'''bash
+cd python/training/classification
+'''
 
 Run the training script:
 
 ```bash
-python main.py
+python3 train.py --model-dir=models/stellar_class4 data/stellar_expanse
 ```
-
-Or open the Jupyter notebooks:
-
-```bash
-jupyter notebook
-```
-
----
 
 ## Example Results
 
