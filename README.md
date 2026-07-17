@@ -9,6 +9,8 @@ A machine learning project for classifying celestial objects using astronomical 
 https://drive.google.com/file/d/1TdiO-XVum4zg5MfrmI-lGT7lUfSqmV5i/view?usp=drive_link
 This video demonstrates the model on an image of a star and an image of a galaxy.
 
+Note: The 5.2 model has since improved the accuracy of the model.
+
 ## Project Overview
 
 The goal of this project is to accurately classify astronomical objects based on observational features collected from sky surveys. The classification model is trained using supervised machine learning techniques to distinguish between different types of stellar objects.
@@ -118,12 +120,12 @@ Example outputs include:
 * Model deployment with Flask or FastAPI
 * Interactive web dashboard
 * Automated data pipeline
-* Improve star and nebula accuracy
 * Add more classes
 * Retrain model with more data
 
 ## Notable Problems
-* The model occasionally misidentifies stellar objects most likely due to the fact that not enough images were collected
+
+Please add problems found in the model.
 
 ---
 
